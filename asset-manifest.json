@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/sekolahprograming.github.io/static/css/main.30ea52ad.css",
-    "main.js": "/sekolahprograming.github.io/static/js/main.ef8a44e1.js",
-    "static/js/787.a40fe38a.chunk.js": "/sekolahprograming.github.io/static/js/787.a40fe38a.chunk.js",
-    "static/media/section.jpg": "/sekolahprograming.github.io/static/media/section.b3d1a94c9fb73fc8bfea.jpg",
-    "static/media/section 2.jpg": "/sekolahprograming.github.io/static/media/section 2.77f077784096e03414aa.jpg",
-    "static/media/section 4.jpg": "/sekolahprograming.github.io/static/media/section 4.39886fd0e4b65fee50f7.jpg",
-    "static/media/section 5.jpg": "/sekolahprograming.github.io/static/media/section 5.1a268b8a0d4ab4476f8a.jpg",
-    "static/media/section 3.jpg": "/sekolahprograming.github.io/static/media/section 3.41e0d7a925724facb8a7.jpg",
-    "static/media/logo.svg": "/sekolahprograming.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/sekolahprograming.github.io/index.html",
-    "main.30ea52ad.css.map": "/sekolahprograming.github.io/static/css/main.30ea52ad.css.map",
-    "main.ef8a44e1.js.map": "/sekolahprograming.github.io/static/js/main.ef8a44e1.js.map",
-    "787.a40fe38a.chunk.js.map": "/sekolahprograming.github.io/static/js/787.a40fe38a.chunk.js.map"
+    "main.css": "/sekolahprograming.github.io.git/static/css/main.30ea52ad.css",
+    "main.js": "/sekolahprograming.github.io.git/static/js/main.32af230b.js",
+    "static/js/787.a40fe38a.chunk.js": "/sekolahprograming.github.io.git/static/js/787.a40fe38a.chunk.js",
+    "static/media/section.jpg": "/sekolahprograming.github.io.git/static/media/section.b3d1a94c9fb73fc8bfea.jpg",
+    "static/media/section 2.jpg": "/sekolahprograming.github.io.git/static/media/section 2.77f077784096e03414aa.jpg",
+    "static/media/section 4.jpg": "/sekolahprograming.github.io.git/static/media/section 4.39886fd0e4b65fee50f7.jpg",
+    "static/media/section 5.jpg": "/sekolahprograming.github.io.git/static/media/section 5.1a268b8a0d4ab4476f8a.jpg",
+    "static/media/section 3.jpg": "/sekolahprograming.github.io.git/static/media/section 3.41e0d7a925724facb8a7.jpg",
+    "static/media/logo.svg": "/sekolahprograming.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sekolahprograming.github.io.git/index.html",
+    "main.30ea52ad.css.map": "/sekolahprograming.github.io.git/static/css/main.30ea52ad.css.map",
+    "main.32af230b.js.map": "/sekolahprograming.github.io.git/static/js/main.32af230b.js.map",
+    "787.a40fe38a.chunk.js.map": "/sekolahprograming.github.io.git/static/js/787.a40fe38a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30ea52ad.css",
-    "static/js/main.ef8a44e1.js"
+    "static/js/main.32af230b.js"
   ]
 }
